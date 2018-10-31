@@ -1,7 +1,7 @@
 Package: reinforcedPred
 Type: Package
 Title: Reinforced Risk Prediction with Budget Constraint
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Yinghao", "Pan", role = c("aut", "cre"),
                      email = "ypan8@uncc.edu"),
              person("Yingqi", "Zhao", role = "aut"),
@@ -30,11 +30,11 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Imports: glmnet (>= 2.0-16), MASS (>= 7.3-50), refund (>= 0.1-17),
-        stats (>= 3.5.1)
+        stats
 RoxygenNote: 6.1.0
 URL: https://github.com/Yinghao-Pan/reinforcedPred
 BugReports: https://github.com/Yinghao-Pan/reinforcedPred/issues
 NeedsCompilation: no
-Packaged: 2018-10-20 15:13:41 UTC; yinghaopan
+Packaged: 2018-10-31 00:43:17 UTC; yinghaopan
 Repository: CRAN
-Date/Publication: 2018-10-26 22:40:03 UTC
+Date/Publication: 2018-10-31 10:20:11 UTC
